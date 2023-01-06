@@ -1,0 +1,36 @@
+.header{
+    background-image: url('./../images/donate\ bg.jpg');
+    background-repeat: no-repeat;
+    background-size: 800px 300px;
+}
+.title{
+    color: aliceblue ;
+    text-align: center;
+    padding-bottom: 50px;
+  
+}
+.banner-title{
+    text-align: center;
+    padding: 50px 50px 2px;
+
+}
+.banner-description{
+    text-align: center;
+    padding: 0 0 5px;
+}
+.btn-primary{
+    text-align: center;
+    color:aliceblue;
+    background-color: chocolate;
+    padding: 10px ;
+    border: 0;
+    border-radius: 10px;
+}
+/* section */
+.section{
+    text-align: center;
+}
+.ammount{
+    display: flex;
+    text-align: left;
+}
