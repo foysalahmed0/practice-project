@@ -1,17 +1,19 @@
 .header{
     background-image: url('./../images/donate\ bg.jpg');
-    background-repeat: no-repeat;
-    background-size: 800px 300px;
+    background-repeat:no-repeat;
+    background-size: 1400px;
+    padding: 100px;
 }
 .title{
-    color: aliceblue ;
+    color: rgb(24, 25, 26) ;
     text-align: center;
     padding-bottom: 50px;
-  
+
 }
 .banner-title{
     text-align: center;
     padding: 50px 50px 2px;
+    font-size: 50px;
 
 }
 .banner-description{
@@ -29,6 +31,7 @@
 /* section */
 .section{
     text-align: center;
+    padding: 200px;
 }
 .ammount{
     display: flex;
